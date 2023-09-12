@@ -1,6 +1,6 @@
 using HidLibrary;
 
-namespace WinFormsApp1
+namespace CM1xxHamHelper
 {
     public partial class Form1 : Form
     {

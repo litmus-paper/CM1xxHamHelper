@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+namespace CM1xxHamHelper
 {
     internal static class Program
     {
